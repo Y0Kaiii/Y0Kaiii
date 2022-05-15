@@ -6,11 +6,11 @@ void Line_Notify(String message);
 #include <WiFiClientSecureAxTLS.h> 
 
 // Config connect WiFi
-#define WIFI_SSID ""//ชือ wifi
-#define WIFI_PASSWORD ""//รหัส wifi
+#define WIFI_SSID "    "//ชือ wifi
+#define WIFI_PASSWORD "   "//รหัส wifi
 
 // Line config
-#define LINE_TOKEN ""
+#define LINE_TOKEN "    "// ใส่ Line Token
 
 #define SW D2
 
